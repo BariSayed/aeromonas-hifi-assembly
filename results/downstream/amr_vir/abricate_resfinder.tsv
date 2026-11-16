@@ -1,0 +1,4 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/sbau/bacterial_wgs/hifi_aeromonas/04_results/flye_hifi.fasta	contig_1	1571800	1572866	-	blaCMY-8b_1	74-1131/1149	========/======	6/13	91.91	83.35	resfinder	DQ094251	blaCMY-8b	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefotaxime;Cefoxitin;Ceftazidime;Piperacillin;Piperacillin+Tazobactam;Ticarcillin;Ticarcillin+Clavulanic_acid
+/home/sbau/bacterial_wgs/hifi_aeromonas/04_results/flye_hifi.fasta	contig_1	2163435	2164199	-	imiH_1	1-765/765	===============	0/0	100.00	94.77	resfinder	AJ548797	imiH	
+/home/sbau/bacterial_wgs/hifi_aeromonas/04_results/flye_hifi.fasta	contig_1	2896098	2896892	+	ampH_2	1-795/795	===============	0/0	100.00	95.72	resfinder	HQ586946	ampH	Amoxicillin;Ampicillin

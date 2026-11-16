@@ -1,0 +1,1 @@
+/home/sbau/bacterial_wgs/hifi_aeromonas/04_results/flye_hifi.fasta	/home/sbau/bacterial_wgs/reference_genomes/ani_ref/Ahydrophila_ATCC7966.fna	93.8985	1442	1630

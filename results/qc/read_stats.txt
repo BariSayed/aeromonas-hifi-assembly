@@ -1,0 +1,2 @@
+file	format	type	num_seqs	sum_len	min_len	avg_len	max_len	Q1	Q2	Q3	sum_gap	N50	Q20(%)	Q30(%)
+/home/sbau/bacterial_wgs/hifi_aeromonas/00_raw_data/SRR30596866.fastq.gz	FASTQ	DNA	45532	366186592	1064	8042.4	29537	6097.0	7734.5	9699.0	0	8694	99.19	98.08

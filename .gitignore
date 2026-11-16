@@ -1,0 +1,6 @@
+*.fastq
+*.fastq.gz
+work/
+02_assembly/
+*.sif
+*.img

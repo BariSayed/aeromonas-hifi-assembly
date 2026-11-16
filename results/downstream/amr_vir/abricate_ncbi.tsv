@@ -1,0 +1,4 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/sbau/bacterial_wgs/hifi_aeromonas/04_results/flye_hifi.fasta	contig_1	1571782	1572930	-	blaAQU	1-1149/1149	===============	0/0	100.00	97.82	ncbi	NG_065839.1	AQU family class C beta-lactamase	BETA-LACTAM
+/home/sbau/bacterial_wgs/hifi_aeromonas/04_results/flye_hifi.fasta	contig_1	2163435	2164199	-	cphA-18	1-765/765	===============	0/0	100.00	95.82	ncbi	NG_245844.1	subclass B2 metallo-beta-lactamase CphA-18	CARBAPENEM
+/home/sbau/bacterial_wgs/hifi_aeromonas/04_results/flye_hifi.fasta	contig_1	2896098	2896892	+	blaOXA-1394	1-795/795	===============	0/0	100.00	98.49	ncbi	NG_245820.1	OXA-12 family class D beta-lactamase OXA-1394	BETA-LACTAM
